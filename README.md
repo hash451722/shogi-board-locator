@@ -1,1 +1,1 @@
-# shogi-board-locator
+# Shogi-board-locator
